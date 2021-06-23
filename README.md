@@ -11,6 +11,8 @@ The player uses HTML audio DOM reference
 
 #Live Demo
 
+https://sanjuli18.github.io/Music-Player/
+
 <img width="735" alt="screenshot" src=https://user-images.githubusercontent.com/63923966/123150037-8ad3bf00-d47f-11eb-9832-b46d1f0eaad0.gif>
 
 
