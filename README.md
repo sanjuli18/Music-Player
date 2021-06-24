@@ -9,7 +9,7 @@ The player uses HTML audio DOM reference
 * The progress bar can be used to jump to particular part of the song.
 * Responsive on large and small screens with the help of the CSS media queries.
 
-#Live Demo
+# Live Demo
 
 https://sanjuli18.github.io/Music-Player/
 
